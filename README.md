@@ -5,9 +5,9 @@ pip install --upgrade google-api-python-client
 pip install matplotlib
 
 Then, put python file and json file into Python main directory
-Second, python getData.py
+Run python getData.py
 Then, you will be asked to logon your google account
-You will see my temperature chart from the sheet:
+You will see my temperature chart based on data from the sheet:
 https://docs.google.com/spreadsheets/d/1_4Nz2WlAWQlpK8j3XaMYXPCJ6E427E9WdmiGLfbuleQ/edit#gid=0
 
 Working principle:
